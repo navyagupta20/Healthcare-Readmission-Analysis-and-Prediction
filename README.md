@@ -1,6 +1,6 @@
-# **Healthcare Readmission Risk Analytics**
+# **Healthcare Readmission Analysis and Prediction**
 
-An end-to-end Healthcare Data Analytics project focused on analyzing 30-day hospital readmissions for diabetes patients using the Diabetes 130-US Hospitals dataset from the UCI Machine Learning Repository.
+An end-to-end Healthcare Data Analysis project focused on analyzing 30-day hospital readmissions for diabetes patients using the Diabetes 130-US Hospitals dataset from the UCI Machine Learning Repository.
 
 The project includes data cleaning, preprocessing, exploratory data analysis (EDA), visualization, patient risk analysis, and basic predictive analytics using Python and Scikit-learn.
 
@@ -66,5 +66,5 @@ The project includes data cleaning, preprocessing, exploratory data analysis (ED
 
 # **Project Objective**
 
-The objective of this project is to analyze hospital readmission patterns and identify patients with higher readmission risk using healthcare analytics and basic predictive modeling techniques.
+The objective of this project is to analyze hospital readmission patterns and identify patients with higher readmission risk using healthcare analysis and basic predictive modeling techniques.
 
